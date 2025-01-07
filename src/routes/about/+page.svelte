@@ -2,7 +2,7 @@
 	<title>About</title>
 	<meta name="description" content="About this app" />
 </svelte:head>
-
+<h1> bun templating testing<h1>
 <div class="text-column">
 	<h1>About this app</h1>
 
